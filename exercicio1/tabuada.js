@@ -1,9 +1,3 @@
-/////////////////////////// 
-function imprimirFelipe (){
-    console.log ('Felipe!')
-}
-
-imprimirFelipe ()
 
 const tabuada = (numero) => {
     let conta1 = numero * 1
@@ -33,4 +27,3 @@ const tabuada = (numero) => {
         tabuada(5)
         tabuada(2)
         tabuada(3)
-
